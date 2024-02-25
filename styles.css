@@ -6,3 +6,15 @@ p {
     color: whitesmoke;
     background-color: darkblue;
 }
+
+ol li {
+    color: tomato;
+}
+
+ul li {
+    color: lightseagreen
+}
+
+h4 {
+    color: darkred;
+}
